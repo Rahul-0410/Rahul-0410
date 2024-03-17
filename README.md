@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi, I am Rahul!👋
 
+- 🔭 I’m currently working on building my logical and analytical skills.
+- 🌱 I’m currently learning MERN Stack.
 <!--
 **Rahul-0410/Rahul-0410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
