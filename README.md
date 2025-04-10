@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate MERN developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahul-0410" alt="rahul-0410" /></a> </p>
+ <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahul-0410" alt="rahul-0410" /></a> </p>
 
 - 🔭 I’m currently working on **MHAO**
 
@@ -20,7 +20,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahul-0410&show_icons=true&locale=en" alt="rahul-0410" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-0410&" alt="rahul-0410" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-0410&" alt="rahul-0410" /></p> -->
 
 <!--
 **Rahul-0410/Rahul-0410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
